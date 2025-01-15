@@ -5,29 +5,29 @@ Maintainers: Misha f. Shiryaev <felixoid@clickhouse.com> (@Felixoid),
              Alexander Sapin <alesapin@clickhouse.com> (@alesapin)
 GitRepo: https://github.com/ClickHouse/docker-library.git
 GitFetch: refs/heads/main
-GitCommit: 2019719b1bb0a17df161a6b542b1a2fec954a71b
+GitCommit: 25d5c4edc570e79103921d61916e8ddbc2a3b82f
 
-Tags: latest, jammy, 24.12, 24.12-jammy, 24.12.2, 24.12.2-jammy, 24.12.2.29, 24.12.2.29-jammy
+Tags: latest, jammy, 24.12, 24.12-jammy, 24.12.3, 24.12.3-jammy, 24.12.3.47, 24.12.3.47-jammy
 Architectures: amd64, arm64v8
-Directory: server/24.12.2.29
+Directory: server/24.12.3.47
 File: Dockerfile.ubuntu
 
-Tags: 24.11, 24.11-jammy, 24.11.2, 24.11.2-jammy, 24.11.2.101, 24.11.2.101-jammy
+Tags: 24.11, 24.11-jammy, 24.11.3, 24.11.3-jammy, 24.11.3.66, 24.11.3.66-jammy
 Architectures: amd64, arm64v8
-Directory: server/24.11.2.101
+Directory: server/24.11.3.66
 File: Dockerfile.ubuntu
 
-Tags: 24.10, 24.10-focal, 24.10.3, 24.10.3-focal, 24.10.3.21, 24.10.3.21-focal
+Tags: 24.10, 24.10-focal, 24.10.4, 24.10.4-focal, 24.10.4.191, 24.10.4.191-focal
 Architectures: amd64, arm64v8
-Directory: server/24.10.3.21
+Directory: server/24.10.4.191
 File: Dockerfile.ubuntu
 
-Tags: lts, lts-focal, 24.8, 24.8-focal, 24.8.11, 24.8.11-focal, 24.8.11.5, 24.8.11.5-focal
+Tags: lts, lts-focal, 24.8, 24.8-focal, 24.8.12, 24.8.12-focal, 24.8.12.28, 24.8.12.28-focal
 Architectures: amd64, arm64v8
-Directory: server/24.8.11.5
+Directory: server/24.8.12.28
 File: Dockerfile.ubuntu
 
-Tags: 24.3, 24.3-focal, 24.3.14, 24.3.14-focal, 24.3.14.35, 24.3.14.35-focal
+Tags: 24.3, 24.3-focal, 24.3.15, 24.3.15-focal, 24.3.15.72, 24.3.15.72-focal
 Architectures: amd64, arm64v8
-Directory: server/24.3.14.35
+Directory: server/24.3.15.72
 File: Dockerfile.ubuntu

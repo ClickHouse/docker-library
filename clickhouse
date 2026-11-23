@@ -6,11 +6,11 @@ Maintainers: Misha f. Shiryaev <felixoid@clickhouse.com> (@Felixoid),
              Alexander Sapin <alesapin@clickhouse.com> (@alesapin)
 GitRepo: https://github.com/ClickHouse/docker-library.git
 GitFetch: refs/heads/main
-GitCommit: 799ca48af879b85a2b498d7fb358e1b104067775
+GitCommit: e71823d3454575435461c717aaf7902dbcfc3b4c
 
-Tags: latest, jammy, 26.10, 26.10-jammy, 26.10.10, 26.10.10-jammy, 26.10.10.3, 26.10.10.3-jammy
+Tags: latest, jammy, 26.10, 26.10-jammy, 26.10.11, 26.10.11-jammy, 26.10.11.12, 26.10.11.12-jammy
 Architectures: amd64, arm64v8
-Directory: server/26.10.10.3
+Directory: server/26.10.11.12
 File: Dockerfile.ubuntu
 
 Tags: 26.9, 26.9-jammy, 26.9.36, 26.9.36-jammy, 26.9.36.3, 26.9.36.3-jammy
